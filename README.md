@@ -6,4 +6,4 @@ Softwares used are:
 
 1. Eagle 9.5.2 Education
 2. Arduino IDE 1.8.11
-2.1 [ATtiny85 Board Manager](https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json)
+3. [ATtiny85 Board Manager](https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json)
